@@ -13,6 +13,7 @@ export class ImageComponent implements OnInit {
   @Input() img: Image;
 
   ngOnInit() {
+
   }
 
 }

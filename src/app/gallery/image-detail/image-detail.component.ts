@@ -8,7 +8,7 @@ import {Image} from "../../models/image";
 })
 export class ImageDetailComponent implements OnInit {
 
-    @Input() selectedImage : Image;
+    @Input() selectedImage: Image;
 
     constructor() {
     }
